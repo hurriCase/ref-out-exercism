@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmitr\\Exercism\\csharp\\building-telemetry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{043ED4E9-1299-4CF5-B8EF-E05EED88A378}|BuildingTelemetry.csproj|c:\\users\\dmitr\\exercism\\csharp\\building-telemetry\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{043ED4E9-1299-4CF5-B8EF-E05EED88A378}|BuildingTelemetry.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043ED4E9-1299-4CF5-B8EF-E05EED88A378}|BuildingTelemetry.csproj|c:\\users\\dmitr\\exercism\\csharp\\building-telemetry\\buildingtelemetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043ED4E9-1299-4CF5-B8EF-E05EED88A378}|BuildingTelemetry.csproj|solutionrelative:buildingtelemetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Exercism\\csharp\\building-telemetry\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\dmitr\\Exercism\\csharp\\building-telemetry\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAcwHkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-24T16:15:08.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuildingTelemetry.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Exercism\\csharp\\building-telemetry\\BuildingTelemetry.cs",
+              "RelativeDocumentMoniker": "BuildingTelemetry.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Exercism\\csharp\\building-telemetry\\BuildingTelemetry.cs",
+              "RelativeToolTip": "BuildingTelemetry.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:15:12.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
